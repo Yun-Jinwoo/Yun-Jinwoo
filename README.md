@@ -9,8 +9,8 @@
   ### 🍎 Jin woo 🍎
 
  <a href="https://github.com/Yun-Jinwoo"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://velog.io/@yjw3480"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://www.instagram.com/y_g_new?igsh=MWFnZ3l0dXdubHc0ag=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a><br>
+<a href="https://velog.io/@yjw3480" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/y_g_new?igsh=MWFnZ3l0dXdubHc0ag==" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a><br>
  
 
 
