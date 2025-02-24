@@ -27,7 +27,7 @@
 <br>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-Jinwoo&theme=flag-india&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" height="200"/></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-Jinwoo&theme=flag-india&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="400" height="190"/></a>
 
 <div align="center">
 
