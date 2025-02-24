@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="400" height="200"/>
 
 
 
@@ -58,4 +58,4 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yun-Jinwoo&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yun-Jinwoo&hide_border=true&card_width=700&theme=flag-india)](https://git.io/streak-stats)
