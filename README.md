@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/73f7ea5b-b657-4dac-aad3-05ddd149e329" alt="고양이" width="40%">
+![KakaoTalk_20250227_042017073](https://github.com/user-attachments/assets/cbc62847-466b-4ddc-9ded-2936a775475c)
+
 
 ---
 
