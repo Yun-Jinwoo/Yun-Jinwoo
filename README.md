@@ -2,7 +2,7 @@
 <div align="center">
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="400" height="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="380" height="200"/>
 
 
 
