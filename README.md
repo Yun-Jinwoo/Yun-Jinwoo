@@ -1,11 +1,6 @@
 
 <div align="center">
 
-![KakaoTalk_20250227_042017073](https://github.com/user-attachments/assets/cbc62847-466b-4ddc-9ded-2936a775475c)
-
-
----
-
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="400" height="200"/>
 
