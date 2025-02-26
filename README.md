@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img align="left" src="https://github.com/user-attachments/assets/73f7ea5b-b657-4dac-aad3-05ddd149e329" alt="고양이" width="20%">
+
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="400" height="200"/>
 
 
