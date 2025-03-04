@@ -60,6 +60,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yun-Jinwoo&hide_border=true&card_width=700&theme=flag-india)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yun-Jinwoo&hide_border=true&card_width=700&theme=flag-india&exclude_days=Sun)](https://git.io/streak-stats)
 
 
