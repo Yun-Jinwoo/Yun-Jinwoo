@@ -60,6 +60,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yun-Jinwoo&hide_border=true&card_width=700&theme=flag-india&exclude_days=Sun)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-indol-phi.vercel.app?user=Yun-Jinwoo&theme=flag-india&hide_border=true&exclude_days=Sun&card_width=700" alt="GitHub Streak" /></a>
 
 
