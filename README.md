@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black">
 <br>
 
 
