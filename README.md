@@ -1,10 +1,7 @@
 
 <div align="center">
 
-
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yun-Jinwoo&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india&custom_title=%EC%A7%84%EC%9A%B0's%20GitHub%20Stats" width="380" height="200"/>
-
-
+  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 
 <br><br>
 
@@ -12,13 +9,9 @@
 
  <a href="https://github.com/Yun-Jinwoo"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@yjw3480" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br>
- 
-
 
 <div align="left">
   
-
-
 <br />
 </div>
 </div>
@@ -27,9 +20,9 @@
  __________
 <br>
 
-
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yun-Jinwoo&theme=flag-india&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="400" height="190"/></a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=190 width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yun-Jinwoo&layout=compact&langs_count=8&card_width=400&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 <div align="center">
 
 ### Once I've Used ✏️ 
@@ -51,10 +44,3 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" />
-<br>
-<br>
-<br>
-
----
-
-
