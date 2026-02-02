@@ -1,7 +1,6 @@
 
 <div align="center">
 
-  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Yun-Jinwoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 
 <br><br>
 
@@ -17,12 +16,8 @@
 </div>
 <br>
 
- __________
-<br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yun-Jinwoo&layout=compact&langs_count=8&card_width=400&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+
 <div align="center">
 
 ### Once I've Used ✏️ 
