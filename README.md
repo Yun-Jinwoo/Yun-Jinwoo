@@ -8,15 +8,7 @@
 
  <a href="https://github.com/Yun-Jinwoo"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@yjw3480" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br>
-
-<div align="left">
-  
-<br />
-</div>
-</div>
 <br>
-
-
 
 <div align="center">
 
