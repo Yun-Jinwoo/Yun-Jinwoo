@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<br><br>
+<br>
 
   ### 🍎 Jin woo 🍎
 
@@ -32,4 +32,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" />
+
 <br>
+<br>
+
