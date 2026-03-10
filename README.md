@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
